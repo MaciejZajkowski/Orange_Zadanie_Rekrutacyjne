@@ -1,0 +1,5 @@
+Dzień Dorby
+
+Żeby zobaczyć jak działa program należy pobrać skrypt, upewnić czy wszystkie bibblioteki w nim zawarte są zainstalowane i uruchomić, plik log.txt stworzy się automatycznie. 
+Dni z racji dużej ilości  nie są wyświetlane w terminalu, zapsane są w pliku log.txt
+Pozdrawiam
